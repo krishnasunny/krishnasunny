@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Node.js, React, Nextjs, Nestjs, Postgresql, Flutter,**
 
-- 📫 How to reach me **piyushgarg.dev@gmail.com**
+- 📫 How to reach me **skode108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
